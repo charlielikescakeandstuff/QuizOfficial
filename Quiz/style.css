@@ -1,0 +1,42 @@
+#question{
+  margin-top: 100PX;
+  font-size: 60PX;
+  color: azure;
+  text-align:  center;
+  font-family: Rubrik, sans-serif;
+}
+#options{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align:  center;
+  font-family: Montserrat, sans-serif;
+}
+button{
+margin-top:100px ;
+border-color:rgb(175, 121, 224);
+background-color: rgba(245, 230, 252, 0.795);
+color: black;
+font-size: 20px;
+width: 100PX;
+height:100PX;
+border-radius: 5px;
+border-width: 1.8px;
+transition: 0.1s;
+}
+button:hover {
+  background-color: rgb(235, 215, 232);
+}
+body {
+  background-image: url(wallpaperflare.com_wallpaper.jpg);
+
+}
+.title{
+
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700; color:#202020;
+    text-transform: uppercase;
+    word-spacing: 1px; letter-spacing:2px;
+
+}
